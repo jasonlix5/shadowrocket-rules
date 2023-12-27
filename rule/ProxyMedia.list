@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,amazon.jobs
 DOMAIN-SUFFIX,amazontools.com
+DOMAIN-SUFFIX,amazontours.com
 DOMAIN-SUFFIX,amazonuniversity.jobs
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,media-amazon.com
@@ -300,7 +301,6 @@ DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevodtv.com
 
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -309,6 +309,8 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
